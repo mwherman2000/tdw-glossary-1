@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Data"
+    id="id-1ac9493f045018848b914fb49da8d862"
+    documentation="The set of data and metadata processed by a Node in order to validate and write a Transaction.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

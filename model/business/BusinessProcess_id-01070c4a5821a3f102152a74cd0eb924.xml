@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Practice"
+    id="id-01070c4a5821a3f102152a74cd0eb924"
+    documentation="An actionable process that implements a Policy.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DKMS"
+    id="id-72cf35289a3fa316dacc72f79eddbe7f"
+    documentation="Decentralized Key Management System, an emerging standard for interoperable cryptographic key management based on DIDs. In Sovrin Infrastructure, the DKMS standard applies to Wallets and Agents.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:ApplicationService>

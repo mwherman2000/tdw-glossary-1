@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recovery Key"
+    id="id-1345b71adb4f861c113f5afd5ce13970"
+    documentation="A special Private Key used for purposes of recovering a Wallet after loss or compromise. In the DKMS key management protocol, a Recovery Key may be cryptographically sharded for secret sharing among multiple Trustees.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

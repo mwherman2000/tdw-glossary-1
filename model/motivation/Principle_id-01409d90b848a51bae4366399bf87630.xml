@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Protection by Design"
+    id="id-01409d90b848a51bae4366399bf87630"
+    documentation="A widely recognized set of principles for protecting Personal Data. Specific Sovrin Data Protection by Design principles are a subset of the Core Principles in the Sovrin Governance Framework. ">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

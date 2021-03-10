@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Type"
+    id="id-69770af0895cd1353dc1526f75ce261f"
+    documentation="A classification of a Transaction. Authorized Transaction Types are specified by the Sovrin Technical Governance Board in the Steward Technical Policies (see Appendix A of the Sovrin Governance Framework Master Document). For example supported Transaction Types for the Sovrin Main Ledger include: NYM (for writing a DID), ATTRIB (for writing an Attribute), CLAIM_DEF (for writing a Credential Definition), SCHEMA (for writing a Schema), REVOC_REG_DEF (for writing a Revocation Registry Definition), and REVOC_REG_ENTRY (for writing a Revocation Registry Entry).">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

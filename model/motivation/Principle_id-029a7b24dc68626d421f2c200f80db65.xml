@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permissioned Write Access"
+    id="id-029a7b24dc68626d421f2c200f80db65"
+    documentation="The set of policies defined by the Sovrin Governance Framework governing how an Identity Owner may write a Transaction to the Sovrin Ledger using an authorized Transaction Endorser. Mutually exclusive with Public Write Access. See Sovrin Ledger Access Policies.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

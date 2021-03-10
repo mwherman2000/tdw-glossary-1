@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Key"
+    id="id-05ffccb323741c1778bb5b8cfa040864"
+    documentation="The half of a cryptographic key pair designed to be shared with other parties in order to decrypt or verify encrypted communications from an Entity. In digital signature schemes, a Public Key is also called a verification key. A Public Key may be either Public Data or Private Data depending on the policies of the Entity. In Sovrin Infrastructure, a Public Key is an Attribute of a Sovrin Entity. All Public Keys published on the Sovrin Ledger are Public Data.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

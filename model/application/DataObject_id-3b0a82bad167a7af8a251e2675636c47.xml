@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decentralized Identifier (DID) 2"
+    id="id-3b0a82bad167a7af8a251e2675636c47"
+    documentation="A globally unique identifier developed specifically for decentralized systems as defined by the W3C DID specification. DIDs enable interoperable decentralized Self-Sovereign Identity management. A DID is associated with exactly one DID Document. The Sovrin Technical Governance Board defines the technical specifications for a Sovrin DID in the Sovrin DID Method Specification.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

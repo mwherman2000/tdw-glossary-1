@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Edge Agent"
+    id="id-3d2fb4fd874a53dd1fe646216bdd9069"
+    documentation="An Agent that operates at the edge of the network on a local device, such as a smartphone, tablet, laptop, automotive computer, etc. The device owner usually has local access to the device and can exert control over its use and authorization. Mutually exclusive with Cloud Agent. An Edge Agent may be an app used directly by an Identity Owner, or it may be an operating system module or background process called by other apps. Edge Agents typically do not have a publicly exposed Service Endpoint in a DID Document, but do have access to a Wallet. Note that the local device may itself be an Active Thing with its own Agent, and for which the Identity Owner is the Thing Controller. See Appendix C and Appendix F.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:ApplicationComponent>

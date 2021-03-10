@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relying Party"
+    id="id-6bfdfaf43a3195f84bd0004b7d94703e"
+    documentation="An Entity that consumes Identity Data and accepts some Level of Assurance from another Entity for some purpose. Verifiers are one type of Relying Party.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

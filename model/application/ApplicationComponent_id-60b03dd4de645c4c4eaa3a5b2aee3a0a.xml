@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hyperledger Indy"
+    id="id-60b03dd4de645c4c4eaa3a5b2aee3a0a"
+    documentation="An open source project under the Hyperledger umbrella for decentralized Self-Sovereign Identity. The source code for Hyperledger Indy was originally contributed to the Linux Foundation by the Sovrin Foundation. Sovrin Stewards run the Hyperledger Indy Node software to operate their Nodes. The Hyperledger Indy home page is https://wiki.hyperledger.org/display/indy. ">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:ApplicationComponent>

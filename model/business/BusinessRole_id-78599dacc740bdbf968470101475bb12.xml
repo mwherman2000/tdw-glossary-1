@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delegator"
+    id="id-78599dacc740bdbf968470101475bb12"
+    documentation="An Identity Owner who enters into a Delegation relationship with a Delegate by issuing a Delegation Credential.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Profile"
+    id="id-2217a424bd0d1d8fcbab11e97ddb8239"
+    documentation="In Sovrin Infrastructure, a Public Profile is a set of Attributes describing a Sovrin Entity, including its Legal Identity, logo(s) or other trademarks, location(s), marketing information, web links, and any other information that may be required by the Sovrin Governance Framework or a Domain-Specific Governance Framework in order to ensure transparency and accountability.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

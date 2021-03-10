@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Community"
+    id="id-22a4bf50fa354d47a21900bd9f6c5e5c"
+    documentation="A specific Trust Community defined as the set of all Identity Owners cooperating under the Sovrin Governance Framework.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessActor>

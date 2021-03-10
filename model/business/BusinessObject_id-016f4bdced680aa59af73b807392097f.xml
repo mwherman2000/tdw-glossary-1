@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persona"
+    id="id-016f4bdced680aa59af73b807392097f"
+    documentation="In the context of digital identity and user experience design, a fictional character created to represent a classification of an Individual that might use a site, brand, or product in a similar way.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessObject>

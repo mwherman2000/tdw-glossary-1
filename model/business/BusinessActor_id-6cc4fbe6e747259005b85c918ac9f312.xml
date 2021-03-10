@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subject"
+    id="id-6cc4fbe6e747259005b85c918ac9f312"
+    documentation="The Entity whose Identifiers are asserted by DIDs and whose Attributes are asserted by Credentials. Aligns with the definitions provided by the W3C Credentials Community Group and W3C Verifiable Claims Working Group. See Appendix G.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessActor>

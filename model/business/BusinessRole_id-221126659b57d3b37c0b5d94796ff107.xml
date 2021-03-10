@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resolver"
+    id="id-221126659b57d3b37c0b5d94796ff107"
+    documentation="A software module that accepts an Identifier as input, looks up the Identifier in a database or ledger, and returns metadata describing the identified Entity. The Domain Name System (DNS) uses a DNS resolver. Self-Sovereign Identity uses a DID Resolver.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

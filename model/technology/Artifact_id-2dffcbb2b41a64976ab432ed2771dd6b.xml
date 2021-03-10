@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Config Ledger"
+    id="id-2dffcbb2b41a64976ab432ed2771dd6b"
+    documentation="The subledger of the Sovrin Ledger used to record a special set of Transaction Types that are not publicly writable as they are reserved for configuration of the Sovrin Ledger. Writes to the Sovrin Config Ledger can only be made by Sovrin Trustees or their Delegates.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Artifact>

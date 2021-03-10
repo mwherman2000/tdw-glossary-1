@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Insurer"
+    id="id-33f672b6bc5e84344950686b8d0cfc0b"
+    documentation="A service provider who provides insurance to Issuers for the potential liability of asserting a Credential or to Verifiers or Relying Parties for the potential risk of relying on a Credential. See Appendix G.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

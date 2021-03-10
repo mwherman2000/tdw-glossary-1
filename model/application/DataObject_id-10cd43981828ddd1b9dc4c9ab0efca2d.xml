@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entity"
+    id="id-10cd43981828ddd1b9dc4c9ab0efca2d"
+    documentation="As used in IETF RFC 3986, Uniform Resource Identifier (URI), a resource of any kind that can be uniquely and independently identified. An Entity identified by a Sovrin DID is a Sovrin Entity. See also Identity.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Steward"
+    id="id-090136393050ab32e5404a1e99bd4426"
+    documentation="An Organization approved by the Sovrin Foundation to operate a Node. A Steward must meet the qualifications defined in the Steward Business Policies and the technical requirements defined in the Steward Technical Policies (see Appendix A of the Sovrin Governance Framework Master Document). A Steward must also execute the Sovrin Steward Agreement. See Appendix E.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Node"
+    id="id-1c278ff6d350457a42f92d59b67eea74"
+    documentation="A computer network server running an instance of the code necessary to operate a distributed ledger or blockchain. In Sovrin Infrastructure, a Node is operated by a Steward running an instance of the Sovrin Open Source Code to maintain the Sovrin Ledger. A Node must be either a Validator Node or an Observer Node. See Appendix E.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Node>

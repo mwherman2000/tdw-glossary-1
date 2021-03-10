@@ -1,0 +1,9 @@
+<archimate:ApplicationCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovereign Domain"
+    id="id-2ba83d84a4634a99449f7bf67176b03f"
+    documentation="The set of Agents, Wallets, Vaults, devices, services, and other digital resources over which an Identity Owner exercises sovereignty. Note that the actual sovereignty of the Identity Owner is limited to the degree such control is protected by the Developer of the hardware or software the Identity Owner is using.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:ApplicationCollaboration>

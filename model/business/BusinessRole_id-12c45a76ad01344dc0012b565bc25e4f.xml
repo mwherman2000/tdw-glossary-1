@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controller"
+    id="id-12c45a76ad01344dc0012b565bc25e4f"
+    documentation="An Identity Owner that is responsible for control of another Entityâ€”specifically the Private Keys needed to take actions on behalf of that Entity. For example, a Thing Controller has a Controller relationship with a Thing. It is one of three types of identity control relationships described in Appendix C.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Entity"
+    id="id-72b1485c6f63384b44565f9a5eef9f1a"
+    documentation="A classification of an Entity that is described by Sovrin Identity Data including at least one Sovrin DID. A Sovrin Entity must be either an Identity Owner or a Thing. A Sovrin Entity may play the role of the Subject, Issuer, Holder, Prover, and/or Verifier of a Credential. Mutually exclusive with Other Entity.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

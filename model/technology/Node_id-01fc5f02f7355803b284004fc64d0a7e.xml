@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Microledger"
+    id="id-01fc5f02f7355803b284004fc64d0a7e"
+    documentation="A Microledger that uses a Sovrin DID and conforms to the specifications for Sovrin Microledgers defined by the Sovrin Technical Governance Board. A Sovrin Microledger is separate (â€œoff-ledgerâ€) from the Sovrin Ledger, however future Transaction Types for the Sovrin Ledger may include special features to support Sovrin Microledgers. ">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Node>

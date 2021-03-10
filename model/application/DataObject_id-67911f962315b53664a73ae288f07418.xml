@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overlay"
+    id="id-67911f962315b53664a73ae288f07418"
+    documentation="A data structure that provides an extra layer of contextual and/or conditional information to a Schema. This extra context can be used by an Agent to transform how information is displayed to a viewer or to guide the Agent in how to apply a custom process to Schema data. In Sovrin Infrastructure, Overlays are stored on and accessed from the Sovrin Ledger and can therefore be both searched for and provided by reference to an Agent.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

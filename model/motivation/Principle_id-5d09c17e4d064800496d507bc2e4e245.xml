@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy by Design"
+    id="id-5d09c17e4d064800496d507bc2e4e245"
+    documentation="A set of seven foundational principles for taking privacy into account throughout the entire design and engineering of a system, product, or service. Originally defined by the Information and Privacy Commissioner of Ontario, Canada. Specific Sovrin Privacy by Design principles are a subset of the Core Principles in the Sovrin Governance Framework.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

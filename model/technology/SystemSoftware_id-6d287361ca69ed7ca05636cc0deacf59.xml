@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Open Source Code"
+    id="id-6d287361ca69ed7ca05636cc0deacf59"
+    documentation="The computer code base governed by the Sovrin Technical Governance Board and distributed under an Open Source License to operate Nodes, Wallets, and Agents. The Sovrin Open Source Code is currently maintained primarily at the Hyperledger Indy Project managed by Linux Foundation and secondarily at the Sovrin Code Repository managed by the Sovrin Foundation.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:SystemSoftware>

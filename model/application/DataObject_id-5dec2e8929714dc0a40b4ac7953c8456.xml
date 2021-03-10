@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pseudonym"
+    id="id-5dec2e8929714dc0a40b4ac7953c8456"
+    documentation="A DID used to prevent correlation outside of a specific context. A Pseudonym may be Pairwise, N-wise, or Anywise. See also Anonym and Verinym.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

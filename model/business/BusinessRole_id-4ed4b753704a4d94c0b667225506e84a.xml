@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agent-to-Agent Protocol Layer Roles"
+    id="id-4ed4b753704a4d94c0b667225506e84a"
+    documentation="The business roles defined at the Agent-to-Agent Protocol layer of Sovrin infrastructure. These include Agency and Developer. See Appendix F.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

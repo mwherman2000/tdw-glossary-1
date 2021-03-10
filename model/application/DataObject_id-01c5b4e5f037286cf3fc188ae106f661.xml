@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Data"
+    id="id-01c5b4e5f037286cf3fc188ae106f661"
+    documentation="Data over which an Entity does not exert access controlâ€”it is publicly available to be read by anyone. In Sovrin Infrastructure, all Transactions on the Sovrin Ledger are Public Data. Mutually exclusive with Private Data.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

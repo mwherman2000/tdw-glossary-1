@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decentralization by Design"
+    id="id-558a3df3b901c7a7efa02d13b2aeb642"
+    documentation="A set of principles developed by the Sovrin Foundation to build decentralization into systems from the very start. The Decentralization by Design principles are a subset of the Sovrin Core Principles.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

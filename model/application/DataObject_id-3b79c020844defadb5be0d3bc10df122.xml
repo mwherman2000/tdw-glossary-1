@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Private Data"
+    id="id-3b79c020844defadb5be0d3bc10df122"
+    documentation="Data over which an Entity exerts access control. In Sovrin Infrastructure, Private Data is never stored on the Sovrin Ledger. Private Data may be stored by an Agent in a Wallet or Vault or other secure location. Mutually exclusive with Public Data.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

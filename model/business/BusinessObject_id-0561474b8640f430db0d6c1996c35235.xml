@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Document"
+    id="id-0561474b8640f430db0d6c1996c35235"
+    documentation="The controlling document of a Governance Framework. The Master Document typically references a set of Controlled Documents constituting the rest of the framework. See Sovrin Governance Framework Master Document.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessObject>

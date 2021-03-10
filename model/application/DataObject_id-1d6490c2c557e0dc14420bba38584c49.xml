@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DID Document"
+    id="id-1d6490c2c557e0dc14420bba38584c49"
+    documentation="The machine-readable document to which a DID points as defined by the W3C DID specification.  A DID document describes the Public Keys, Service Endpoints, and other metadata associated with a DID. A DID Document is associated with exactly one DID.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

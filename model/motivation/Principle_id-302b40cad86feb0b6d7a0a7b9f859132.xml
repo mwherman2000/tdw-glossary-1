@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Ledger Layer"
+    id="id-302b40cad86feb0b6d7a0a7b9f859132"
+    documentation="The first Sovrin Infrastructure Layer comprised of the Sovrin Ledger. See Appendix E.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

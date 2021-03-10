@@ -1,0 +1,9 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Endorser Agreement"
+    id="id-7a87da88bb16993e29dc47b4a478094c"
+    documentation="A Controlled Document which functions as the legal agreement between the Sovrin Foundation and any Transaction Endorser. See Sovrin Ledger Access Policies and Appendix E.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Representation>

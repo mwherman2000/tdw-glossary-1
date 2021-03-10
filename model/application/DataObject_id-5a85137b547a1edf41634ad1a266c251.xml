@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verinym"
+    id="id-5a85137b547a1edf41634ad1a266c251"
+    documentation="A DID that it is directly or indirectly associated with the Legal Identity of the Identity Owner. Mutually exclusive with Anonym and Pseudonym.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

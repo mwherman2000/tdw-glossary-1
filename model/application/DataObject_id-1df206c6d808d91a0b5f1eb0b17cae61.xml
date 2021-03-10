@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microledger"
+    id="id-1df206c6d808d91a0b5f1eb0b17cae61"
+    documentation="A cryptographic data structure maintained over a single Connection that enables two or more Agents to securely share Pairwise DIDs, Public Keys, Service Endpoints, and other Identity Data. See Sovrin Microledger.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

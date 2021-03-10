@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Assurance"
+    id="id-51b2662cda26501413a94a3ea16bbc39"
+    documentation="A means by which one Entity conveys confidence that another Entity is complying with the rules of a Governance Framework. See the Sovrin Trust Assurance Framework.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verifier"
+    id="id-275299fcba6b8ad540232d637d73f47f"
+    documentation="An Entity who requests a Credential or Proof from a Holder and verifies it in order to make a trust decision about a Sovrin Entity. Based on the definition provided by the W3C Verifiable Claims Working Group. See also Relying Party.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

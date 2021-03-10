@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Thing"
+    id="id-48397bcf12498f1220a407215f56e05d"
+    documentation="An Entity that is not an Individual or an Organization and thus cannot be held legally accountable. A Thing may be a Natural Thing or a Man-Made Thing. In Self-Sovereign Identity, a Thing is represented by an Agent that can form Connections, exchange Credentials, and communicate securely even if the Thing itself is not network-enabled. Mutually exclusive with Identity Owner. To participate in an SSI ecosystem, every Thing must have a Thing Controller. NOTE: Not all objects are Things in the sense defined here. A Thing must be a uniquely identifiable Entity that is not fungible, i.e., not directly replaceable or exchangeable with another Thing. See Appendix B and Appendix C.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessActor>

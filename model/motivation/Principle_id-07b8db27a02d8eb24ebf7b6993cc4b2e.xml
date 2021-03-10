@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Ledger"
+    id="id-07b8db27a02d8eb24ebf7b6993cc4b2e"
+    documentation="The distributed, continuously-replicated global cryptographic database of Transactions maintained by Stewards operating Nodes communicating with the Sovrin Consensus Protocol. The Sovrin Ledger consists of four subledgers: the Sovrin Config Ledger, Sovrin Node Ledger, Sovrin Domain Ledger (also called the Sovrin Main Ledger), and Sovrin Payment Ledger. Only the Sovrin Domain Ledger and Sovrin Payment Ledger accept publicly available Transaction Types. See Sovrin Ledger Access Policies and Appendix E.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

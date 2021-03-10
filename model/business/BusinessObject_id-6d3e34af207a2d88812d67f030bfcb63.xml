@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditor Accreditor Credential"
+    id="id-6d3e34af207a2d88812d67f030bfcb63"
+    documentation="A Credential issued by a Governance Authority asserting that an Auditor Accreditor is authorized to issue Auditor Credentials for a particular Governance Framework. See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessObject>

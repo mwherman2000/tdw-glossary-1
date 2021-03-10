@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governance Authority Credential"
+    id="id-69a04fce4701d9190099342823b1cb5a"
+    documentation="A Credential issued by one Governance Authority asserting the recognition of another Governance Authority. See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessObject>

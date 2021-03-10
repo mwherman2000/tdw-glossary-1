@@ -1,0 +1,9 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Standards"
+    id="id-3350a9e45c0dafb133ac7b6e1233f53d"
+    documentation="Technical standards that are developed under an Open Governance process; are publicly available for anyone to use; and which do not lock in users of the standard to a specific vendor or implementation. Open Standards facilitate interoperability and data exchange among different products or services and are intended for widespread adoption. Many Open Standards have implementations that are available under an Open Source License.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Contract>

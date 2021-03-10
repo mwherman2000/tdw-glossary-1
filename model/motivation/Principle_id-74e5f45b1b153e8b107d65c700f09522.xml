@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Trust 2"
+    id="id-74e5f45b1b153e8b107d65c700f09522"
+    documentation="Trust bestowed in a set of humans (Individuals and/or Organizations) that they will behave as expected. This form of trust is based in human social, business, and legal relationships. Compare with Cryptographic Trust. See Appendix D.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

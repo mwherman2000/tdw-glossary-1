@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revocation Registry Entry"
+    id="id-0633bd1e5a5a461ad6ca40033b076c63"
+    documentation="In Sovrin Infrastructure, the Transaction Type written by an Issuer to update the state of a Revocation Registry. A Revocation Registry Entry may authorize newly issued Credentials or revoke previously issued Credentials.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

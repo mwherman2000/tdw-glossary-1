@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Principles"
+    id="id-79c2e8f74706f769d43423c7526eed07"
+    documentation="The principles published in a Governance Framework that apply broadly to all Trust Community Members. The Core Principles of the Sovrin Governance Framework are defined in Section 2 of the Sovrin Governance Framework Master Document.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

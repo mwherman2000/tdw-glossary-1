@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin DID Method Specification"
+    id="id-41b7e26d270ebbc11d835b80a9c2b81d"
+    documentation="A Controlled Document defined by the Sovrin Technical Governance Board specifying the format, registration, and resolution of DIDs rooted in the Sovrin Ledger or a Sovrin Microledger. The Sovrin DID Method Specification must conform to the requirements of a DID method specification as specified in the W3C DID specification.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

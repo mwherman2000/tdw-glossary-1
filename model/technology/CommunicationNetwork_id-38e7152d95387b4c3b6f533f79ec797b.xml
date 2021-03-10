@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Main Network"
+    id="id-38e7152d95387b4c3b6f533f79ec797b"
+    documentation="The authoritative version of the Sovrin Ledger operated by Stewards hosting Validator Nodes. The Sovrin Main Network is separate from and complementary to the Sovrin Builder Network and the Sovrin Staging Network.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:CommunicationNetwork>

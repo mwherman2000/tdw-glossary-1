@@ -1,0 +1,9 @@
+<archimate:Location
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jurisdiction"
+    id="id-3b1d5ad92d3ee1c79cdb2c6ec40d0136"
+    documentation="A legally defined scope of authority to which an Identity Owner is bound by law at any one point in time. Jurisdiction is particularly relevant to Sovrin Governance Framework policies in order to help ensure diversity among Stewards. For these purposes, Jurisdiction is defined broadly as: sovereign states or autonomous regions that are members of the United Nations, any UN Specialized Agency, or the Universal Postal Union, as well as sovereign states or autonomous regions that have observer status at the UN or any UN Specialized Agency.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Location>

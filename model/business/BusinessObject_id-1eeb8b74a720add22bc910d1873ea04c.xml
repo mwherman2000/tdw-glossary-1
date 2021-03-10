@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Anchor Credential"
+    id="id-1eeb8b74a720add22bc910d1873ea04c"
+    documentation="A Credential issued by a Governance Authority or an Auditor asserting that an Issuer is Accredited to serve as a Trust Anchor. See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Subject"
+    id="id-3a24d331371d3cfcdbe529fb34c13938"
+    documentation="As defined by the EU General Data Protection Regulation (GDPR), any person whose Personal Data is being collected, held, or processed. In the Sovrin Governance Framework, a Data Subject is referred to as an Individual.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

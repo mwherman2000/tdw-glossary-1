@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revocation Registry Definition"
+    id="id-37e82c52f125b1412e8d4c167ba55354"
+    documentation="In Sovrin Infrastructure, the Transaction Type written by an Issuer to create a new Revocation Registry.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

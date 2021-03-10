@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Board of Trustees"
+    id="id-1d5ab19cca431f23da080fd96155346e"
+    documentation="The set of Trustees entrusted with governance of the Sovrin Foundation under its current governance model. The responsibilities of the Sovrin Board of Trustees are specified in the Sovrin Governance Framework and its Controlled Documents.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessActor>

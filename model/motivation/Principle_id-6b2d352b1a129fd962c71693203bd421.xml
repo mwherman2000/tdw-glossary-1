@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Glossary"
+    id="id-6b2d352b1a129fd962c71693203bd421"
+    documentation="An alphabetically sorted list of terms used in the Sovrin Governance Framework, each of which has a short description (definition) and optionally additional text that provides further explanation. The Sovrin Glossary (i.e. the present document) is a Controlled Document of the Sovrin Governance Framework.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

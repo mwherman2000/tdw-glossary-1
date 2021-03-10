@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cryptographic Trust"
+    id="id-1abf934867079c86f4c14482819bae64"
+    documentation="Trust bestowed in a set of machines (Man-Made Things) that are operating a set of cryptographic algorithms will behave as expected. This form of trust is based in mathematics and computer hardware/software engineering. Compare with Human Trust. See Appendix D.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

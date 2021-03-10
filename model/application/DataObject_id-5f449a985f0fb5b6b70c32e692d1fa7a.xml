@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credential Exchange"
+    id="id-5f449a985f0fb5b6b70c32e692d1fa7a"
+    documentation="A set of Interaction Patterns within an Agent-to-Agent Protocol for exchange of Credentials between Entities acting in Credential Exchange Roles. See Appendix G.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

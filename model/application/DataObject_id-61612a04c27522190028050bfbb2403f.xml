@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="State Proof"
+    id="id-61612a04c27522190028050bfbb2403f"
+    documentation="A Proof requested from a Node that provides cryptographic verification that the response reflects the current state of the Sovrin Ledger.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Node Selection Algorithm"
+    id="id-1ebdc9d7ca63b447d2481bc55a040d23"
+    documentation="An algorithm specified by the Sovrin Technical Governance Board in the Sovrin Steward Technical Policies document (see Appendix A of the Sovrin Governance Framework Master Document) that automatically selects the current active set of Validator Nodes at any one point in time.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:ApplicationFunction>

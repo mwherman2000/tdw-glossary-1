@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Trust Framework"
+    id="id-5fcc9da64b758b0c947c355077e51458"
+    documentation="Synonym for Sovrin Governance Framework. This was the term used for the first generation of the framework, formally known as the Sovrin Provisional Trust Framework.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

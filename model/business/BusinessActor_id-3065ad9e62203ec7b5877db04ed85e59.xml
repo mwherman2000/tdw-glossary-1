@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Community"
+    id="id-3065ad9e62203ec7b5877db04ed85e59"
+    documentation="A set of Entities cooperating to achieve their mutual trust objectives. An informal Trust Community may not have an official structure or a Governance Framework. A formal Trust Community consists of the set of all Entities participating in a Governance Framework. See also Sovrin Community.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessActor>

@@ -1,0 +1,9 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Provisional Trust Framework (SPTF)"
+    id="id-43e81ca78760c42045613674ca670c49"
+    documentation="The formal name for the first version of what is now the Sovrin Governance Framework. The SPTF was approved by the Sovrin Board of Trustees on 28 June 2017.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Representation>

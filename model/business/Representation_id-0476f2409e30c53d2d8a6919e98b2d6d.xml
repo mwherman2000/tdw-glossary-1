@@ -1,0 +1,9 @@
+<archimate:Representation
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domain-Specific Governance Framework"
+    id="id-0476f2409e30c53d2d8a6919e98b2d6d"
+    documentation="A Governance Framework designed to achieve the trust objectives of a specific Trust Community that inherits and/or aligns its Core Principles, Core Policies, and other definitions from a more general Governance Framework. The Sovrin Governance Framework is designed to serve as a general model for Domain-Specific Governance Frameworks based on the Sovrin Web of Trust Model. See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Representation>

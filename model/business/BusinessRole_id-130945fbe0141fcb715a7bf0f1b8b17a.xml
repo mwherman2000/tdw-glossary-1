@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Holder"
+    id="id-130945fbe0141fcb715a7bf0f1b8b17a"
+    documentation="A role played by an Entity when it is issued a Credential by an Issuer. The Holder may or may not be the Subject of the Credential. (There are many use cases in which the Holder is not the Subject, e.g., a birth certificate where the Subject is a baby and both the mother and father may be Holders. Another case is a Credential Registry.) If the Credential supports Zero Knowledge Proofs, the Holder is also the Prover. Based on the definition provided by the W3C Verifiable Claims Working Group. See Appendix G.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

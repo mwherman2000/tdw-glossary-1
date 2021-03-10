@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Infrastructure"
+    id="id-0d88b3fead4ee2d6981556419a1b347f"
+    documentation="A term encompassing all of the components that constitute Sovrin as a global public utility for Self-Sovereign Identity, including the Sovrin Ledger, Sovrin Network, Sovrin Web of Trust, Sovrin Governance Framework, and the Sovrin Foundation.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

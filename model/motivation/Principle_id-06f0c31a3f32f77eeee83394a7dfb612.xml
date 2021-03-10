@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Infrastructure Layers"
+    id="id-06f0c31a3f32f77eeee83394a7dfb612"
+    documentation="The four layers of Sovrin Infrastructure: from bottom-to-top, the Sovrin Ledger Layer, the Agent-to-Agent Protocol Layer, the Credential Exchange Layer, and the Governance Framework Layer. See Appendix D.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

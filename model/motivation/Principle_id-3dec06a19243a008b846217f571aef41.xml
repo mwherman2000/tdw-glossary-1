@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DID Method"
+    id="id-3dec06a19243a008b846217f571aef41"
+    documentation="A specification that defines a particular type of DID conforming to the W3C DID specification. A DID Method specifies both the format of the particular type of DID as well as the set of operations for creating, reading, updating, and deleting (revoking) it. See Sovrin DID Method Specification.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

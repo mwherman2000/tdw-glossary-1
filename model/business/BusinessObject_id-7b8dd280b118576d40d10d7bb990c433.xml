@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guardianship Credential"
+    id="id-7b8dd280b118576d40d10d7bb990c433"
+    documentation="A Credential issued to a Guardian by an Identity Owner who has the legal authority to assign a Guardian for a Dependent. See Appendix C.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessObject>

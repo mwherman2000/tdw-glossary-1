@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtual Vault"
+    id="id-784bf54d11114af97a2a36678c7f2107"
+    documentation="The collection of all Vaults used by an Entity. For example, the Virtual Vault for an Individual Identity Owner would include the Vaults on all that personâ€™s devices, plus any cloud-based Vaults that are accessible to and/or managed by the Identity Ownerâ€™s Agent(s). See also Sovereign Domain.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Node>

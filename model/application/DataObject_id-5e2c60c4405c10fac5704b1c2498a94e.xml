@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tombstone"
+    id="id-5e2c60c4405c10fac5704b1c2498a94e"
+    documentation="A mark associated with a Transaction to suggest that the Transaction should no longer be returned in response to requests for read access. In the Sovrin Ledger, a Tombstone may be either a Node-Specific Tombstone or a Ledger-Wide Tombstone. Tombstones do not modify the Sovrin Ledgerâ€”only the behavior of a Node that serves data from the Ledger and that wishes to honor the Tombstoneâ€™s semantics. In the general context of Self-Sovereign Identity, Tombstones are undesirable, as they represent a vector for censorship. However, they may be used by a specific Steward that is forced to comply with a legal demand to stop returning a specific Transaction, such as a Transaction containing data that is locally considered Personal Data or that is illegal or violates the Transaction Author Agreement in some other way. In such a case, other Stewards may not face the same legal demands and may take different action.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

@@ -1,0 +1,43 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Systems Infrastructure"
+    id="id-76224b781ece437ca709b91819e88214"
+    documentation="Some documentation…">
+  <properties
+      key="Status"
+      value="New"/>
+  <properties
+      key="CreatedVersion"
+      value="0.3"/>
+  <properties
+      key="CCCreators"
+      value="Michael Herman, Trusted Digital Web Project, Hyperonomy Digital Identity Lab, Parallelspace Corporation"/>
+  <properties
+      key="CCCopyrightNotice"
+      value="Copyright (c) 2019-2021 Michael Herman (Toronto/Calgary/Seattle)"/>
+  <properties
+      key="CCLicense"
+      value="Creative Commons Attribution-ShareAlike 4.0 International Public CCLicense"/>
+  <properties
+      key="CCDisclaimers"
+      value="Disclaimer of Warranties and Limitation of Liability. a. Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the CCLicensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the CCLicensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where CCDisclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You. b. To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public CCLicense or use of the CCLicensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You."/>
+  <properties
+      key="Language"
+      value="en-US"/>
+  <properties
+      key="Created"
+      value="1900-01-01T12:01:00Z"/>
+  <properties
+      key="CreatedBy"
+      value="Alice"/>
+  <properties
+      key="Modified"
+      value="1900-01-01T12:01:00Z"/>
+  <properties
+      key="ModifiedBy"
+      value="Bob"/>
+  <properties
+      key="ModifiedReason"/>
+  <properties
+      key="ModifiedVersion"/>
+</archimate:Principle>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Node-Specific Tombstone"
+    id="id-01ca9a14fe7825c82fae07c36b9e2c26"
+    documentation="A Tombstone marked by an individual Steward so that it is no longer returned in response to a request for read access to the Node operated by that Steward. Mutually exclusive with Ledger-Wide Tombstone. ">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

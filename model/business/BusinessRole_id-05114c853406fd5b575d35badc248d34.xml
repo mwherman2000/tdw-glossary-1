@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Endorser"
+    id="id-05114c853406fd5b575d35badc248d34"
+    documentation="An Organization authorized under Permissioned Write Access to authorize a Transaction by digitally signing it so it will be accepted by a Validator Node. The Transaction Endorser role is only needed for Permissioned Write Access. It is not needed for Public Write Access. See Appendix E.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

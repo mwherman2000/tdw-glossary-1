@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cloud Agent"
+    id="id-756032cee33c9e3a7c9c105a61663d41"
+    documentation="An Agent that is hosted in the cloud. It typically operates on a computing device over which the Identity Owner does not have direct physical control or access. Mutually exclusive with Edge Agent. A Cloud Agent requires a Wallet and typically has a Service Endpoint. Cloud agents may be hosted by an Agency. See Appendix F.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

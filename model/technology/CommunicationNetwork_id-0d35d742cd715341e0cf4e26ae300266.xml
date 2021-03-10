@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Protocol"
+    id="id-0d35d742cd715341e0cf4e26ae300266"
+    documentation="The Open Standard Agent-to-Agent Protocol for communicating between Agents, performing Transactions with the Sovrin Ledger, performing Credential Exchange, or implementing other Interaction Patterns as defined by the Sovrin Community and implemented in the Sovrin Open Source Code. See Appendix F.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:CommunicationNetwork>

@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Owner"
+    id="id-79422b3eb015bf622a253479ba0dc140"
+    documentation="This term refers to the subclassifications of Sovrin Entity that may be held legally accountable. Identity Owners includes Individuals and Organizations but do not include Things. The actual legal accountability of an Identity Owner for any particular action depends on many contextual factors including the laws of the applicable Jurisdiction, Guardianship, and so forth. An Identity Owner may play any of the Sovrin Infrastructure Roles. See Appendix F.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

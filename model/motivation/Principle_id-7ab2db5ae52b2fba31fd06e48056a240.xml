@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anywise"
+    id="id-7ab2db5ae52b2fba31fd06e48056a240"
+    documentation="A non-reciprocal relationship rooted in the Identity of one party, where the other party is the public (a faceless â€œotherâ€ that can be instantiated without bound). For an Organization to issue publicly Verifiable Credentials, its Issuer DID must be on a public ledger such as the Sovrin Ledger. It is thus an Anywise DIDâ€”a DID to which any other Entity may refer without coordination. The term â€œpublic DIDâ€ is sometimes used as a casual synonym for â€œAnywise DIDâ€. However, â€œpublic DIDâ€ is deprecated because it is ambiguous, i.e., it may refer to a DID that is world-visible but usable only in pairwise mode, or to a DID that is not published in a central location but nonetheless used in many contexts, or to a DID that is both publicly visible and used in Anywise mode. Compare N-wise and Pairwise.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

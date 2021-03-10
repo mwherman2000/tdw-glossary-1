@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SSI Protocol 2"
+    id="id-746a19e4f06edba8b6e26f9c8f229e7d"
+    documentation="A generic version of the Sovrin Protocol that works at the second layer of the SSI Stack to enable Credential Exchange and Governance Frameworks to work interoperably across any number of SSI ledgers, blockchains, or networks.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

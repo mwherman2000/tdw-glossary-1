@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personal Data"
+    id="id-24851a1849454c9bd48b778a1eb41953"
+    documentation="As defined by the EU General Data Protection Regulation (GDPR), any information relating to an identified or identifiable natural person. In the GDPR, this natural person is called the Data Subject. In the Sovrin Governance Framework, this natural person is called an Individual.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessObject>

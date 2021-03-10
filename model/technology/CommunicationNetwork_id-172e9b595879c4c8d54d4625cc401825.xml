@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Network"
+    id="id-172e9b595879c4c8d54d4625cc401825"
+    documentation="The Sovrin Ledger and its Nodes plus the set of all Agents that communicate with the Sovrin Ledger and with each other using the Sovrin Protocol.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:CommunicationNetwork>

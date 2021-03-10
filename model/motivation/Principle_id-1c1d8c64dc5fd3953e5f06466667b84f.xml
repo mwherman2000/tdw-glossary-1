@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Identity"
+    id="id-1c1d8c64dc5fd3953e5f06466667b84f"
+    documentation="A set of Attributes sufficient to identify an Identity Owner for the purpose of legal accountability in at least one Jurisdiction. A Legal Identity may be established by one or more valid Credentials from Issuers that are trusted to provide the necessary Attributes.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anonym"
+    id="id-2c5c89b20d704d28ba917d9fa1ccbe45"
+    documentation="A DID used exactly once, so it cannot be contextualized or correlated beyond that single usage. See also Pseudonym and Verinym.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Node Ledger"
+    id="id-7d8bb03f604e778dfbef510d27118d57"
+    documentation="The subledger of the Sovrin Ledger used to record Transactions identifying the authorized Nodes. The Sovrin Node Ledger is publicly readable but not publicly writable; writes may only be made by Trustees or Stewards.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Node>

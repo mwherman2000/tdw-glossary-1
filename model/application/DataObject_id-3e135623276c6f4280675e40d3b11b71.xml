@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Protocol Token"
+    id="id-3e135623276c6f4280675e40d3b11b71"
+    documentation="A cryptographic token that may be exchanged using the Sovrin Protocol via Transactions with the Sovrin Payment Ledger. The Sovrin Protocol Token implements specifications defined by the Sovrin Technical Governance Board and policies defined by the Sovrin Governance Framework.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

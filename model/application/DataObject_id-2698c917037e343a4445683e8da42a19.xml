@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ledger-Wide Tombstone"
+    id="id-2698c917037e343a4445683e8da42a19"
+    documentation="A Tombstone marked across the entire Sovrin Ledger so that it is no longer returned by any Node in response to requests for read access. Mutually exclusive with Node-Specific Tombstone.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

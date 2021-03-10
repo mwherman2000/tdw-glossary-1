@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revocation Registry"
+    id="id-203564a2cb19a94652b83a68e2499023"
+    documentation="An online repository of data needed for Revocation. In Sovrin Infrastructure, a Revocation Registry is a privacy-respecting cryptographic data structure maintained on the Sovrin Ledger by an Issuer in order to support Revocation of a Credential. See Transaction Type.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:ApplicationService>

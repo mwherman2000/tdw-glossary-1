@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prover"
+    id="id-7de277ed130b37b366be37baef898051"
+    documentation="A role played by an Entity when it generates a Zero Knowledge Proof from a Credential. The Prover is also the Holder of the Credential. See Appendix G.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

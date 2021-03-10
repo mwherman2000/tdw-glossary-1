@@ -1,0 +1,9 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Social Purpose Organization"
+    id="id-3a7808aa5446b176f1a3606df1c33f5b"
+    documentation="An Organization whose primary mission is service to society rather than generation of profit.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessInteraction>

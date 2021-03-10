@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revocation"
+    id="id-693c8bca4f5b13c83d2131791267f355"
+    documentation="The act of an Issuer revoking the validity of a Claim or a Credential. With the Sovrin Protocol and the Sovrin Ledger, Revocation is accomplished using a Revocation Registry.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessFunction>

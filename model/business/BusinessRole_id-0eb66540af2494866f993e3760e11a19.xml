@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transaction Author"
+    id="id-0eb66540af2494866f993e3760e11a19"
+    documentation="The Entity initiating a Transaction. Most (but not all) Transaction Authors will be Identity Owners. In Sovrin infrastructure, Transaction Authors must sign the Transaction Author Agreement. See also Transaction Endorser. See Appendix E.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

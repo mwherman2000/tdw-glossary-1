@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Foundation"
+    id="id-737087ffd23cfd66dc161c10b7ee7a2d"
+    documentation="The non-profit public trust organization chartered to administer Sovrin Infrastructure on behalf of the Sovrin Community. The Sovrin Foundation is the Governance Authority for the Sovrin Governance Framework and the Sovrin Web of Trust Framework. The Sovrin Foundation website is https://sovrin.org. See Appendix E.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

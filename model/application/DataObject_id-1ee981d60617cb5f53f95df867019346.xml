@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proof Request"
+    id="id-1ee981d60617cb5f53f95df867019346"
+    documentation="The data structure sent by a Verifier to a Holder that describes the Proof required by the Verifier. Proof Requests are sent and received using the Sovrin Protocol.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

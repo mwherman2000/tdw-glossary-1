@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity 2"
+    id="id-05bb636dc64c762a59bd656a0b7f435e"
+    documentation="Information that enables a specific Entity to be distinguished from all others in a specific context. Identity may apply to any type of Entity, including Individuals, Organizations, and Things. Note that Legal Identity is only one form of Identity. Many technologies can provide Identity capabilities; the Sovrin Governance Framework defines one such system. See Appendix A.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

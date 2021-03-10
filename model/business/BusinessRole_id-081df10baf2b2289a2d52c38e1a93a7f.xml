@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Passive Thing"
+    id="id-081df10baf2b2289a2d52c38e1a93a7f"
+    documentation="A Man-Made Thing that does not have the capacity to operate its own Agent(s). Examples include documents, books, non-computerized goods, data structures, legal matters, etc. Mutually exclusive with Active Thing. See Appendix B and Appendix C.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

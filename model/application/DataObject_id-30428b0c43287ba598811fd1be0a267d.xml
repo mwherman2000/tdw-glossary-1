@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credential Definition (CredDef)"
+    id="id-30428b0c43287ba598811fd1be0a267d"
+    documentation="A machine-readable definition of the semantic structure of a Credential based on one or more Schemas. In Sovrin Infrastructure, Credential Definitions are stored on the Sovrin Ledger. Credential Definitions must include an Issuer Public Key. Credential Definitions facilitate interoperability of Credentials and Proofs across multiple Issuers, Holders, and Verifiers.See Appendix G.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

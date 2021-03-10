@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governance Framework Layer Roles"
+    id="id-4acea433907d01be9d8b4848cb9e0d0a"
+    documentation="The business roles defined at the Governance Framework layer of Sovrin Infrastructure. These include Governance Authority, Trust Anchor, Credential Registry, Auditor, and Auditor Accreditor. See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

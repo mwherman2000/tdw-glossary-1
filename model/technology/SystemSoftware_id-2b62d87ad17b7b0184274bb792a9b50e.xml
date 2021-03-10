@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SSI Stack"
+    id="id-2b62d87ad17b7b0184274bb792a9b50e"
+    documentation="A generic version of the Sovrin Stack in which the bottom layerâ€”the Sovrin Ledger layerâ€”is expanded to include any distributed ledger, blockchain, or other SSI Network capable of supporting the three higher layersâ€”the Agent-to-Agent Protocol layer, the Credential Exchange layer, and the Governance Framework layer.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:SystemSoftware>

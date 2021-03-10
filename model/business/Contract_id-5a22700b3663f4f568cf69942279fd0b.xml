@@ -1,0 +1,9 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Read Access"
+    id="id-5a22700b3663f4f568cf69942279fd0b"
+    documentation="The set of policies defined by the Sovrin Governance Framework specifying the policies applying to read access to the Sovrin Ledger. See Sovrin Ledger Access Policies.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Contract>

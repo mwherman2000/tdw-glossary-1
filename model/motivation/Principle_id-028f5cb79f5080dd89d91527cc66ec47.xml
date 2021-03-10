@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Trustee"
+    id="id-028f5cb79f5080dd89d91527cc66ec47"
+    documentation="A Trustee who is a member of the Sovrin Foundation Board of Trustees. The trust in Sovrin Trustees is bestowed collectively on behalf of all Identity Owners.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

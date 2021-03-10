@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Governance Framework Layer"
+    id="id-0ab1cd0ff77102b349a74bf2a5aa3963"
+    documentation="The Sovrin Infrastructure Layer for implementing Governance Frameworks, particularly  Domain-Specific Governance Frameworks. See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessObject>

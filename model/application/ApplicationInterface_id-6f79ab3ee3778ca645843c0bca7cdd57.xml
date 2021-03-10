@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Self-Certification Page"
+    id="id-6f79ab3ee3778ca645843c0bca7cdd57"
+    documentation="A page on the website of the Issuer of a Self-Certification Credential that includes a link to the Credential and human-readable statement describing the Credential.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:ApplicationInterface>

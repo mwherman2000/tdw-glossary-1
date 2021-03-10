@@ -1,0 +1,9 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SSI Network 2"
+    id="id-26069fa12d01b8ee481647f49c2bed23"
+    documentation="A generic version of the Sovrin Network that supports the SSI Protocol and the SSI Stack. Using interoperable Open Standards and Governance Frameworks, multiple SSI Networks can work together to form a unified SSI Layer.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:CommunicationNetwork>

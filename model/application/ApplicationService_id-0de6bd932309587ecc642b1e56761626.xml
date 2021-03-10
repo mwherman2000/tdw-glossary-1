@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credential Registry"
+    id="id-0de6bd932309587ecc642b1e56761626"
+    documentation="An Entity that serves as a Holder of Credentials issued by Trust Community Members in order to provide a cryptographically verifiable directory service to the Trust Community or to the public. The term also refers to the actual repository of Credentials maintained by this Entity. An informal Credential Registry may accept Credentials from participants whose purpose is to cross-certify each otherâ€™s roles in the Trust Community. A formal Credential Registry may be authorized directly by a Governance Authority or Accredited by an authorized Auditor for the relevant Governance Framework. See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:ApplicationService>

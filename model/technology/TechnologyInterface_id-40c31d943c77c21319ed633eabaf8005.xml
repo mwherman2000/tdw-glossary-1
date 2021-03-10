@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DKMS Protocol"
+    id="id-40c31d943c77c21319ed633eabaf8005"
+    documentation="A subset of the Agent-to-Agent Protocol that enables Agents to perform DKMS functions for interoperable digital Wallet management, e.g., key exchange, automated backup, offline recovery, social recovery, etc. See Appendix F.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:TechnologyInterface>

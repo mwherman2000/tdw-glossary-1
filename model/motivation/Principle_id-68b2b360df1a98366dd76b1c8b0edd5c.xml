@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identifier 2"
+    id="id-68b2b360df1a98366dd76b1c8b0edd5c"
+    documentation="A text string or other atomic data structure used to provide a base level of Identity for an Entity in a specific context. In Self-Sovereign Identity systems, Decentralized Identifiers (DIDs) are the standard Identifier. See Appendix A.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

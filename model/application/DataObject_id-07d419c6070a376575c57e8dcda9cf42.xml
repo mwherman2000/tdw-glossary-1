@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credential Exchange Layer Roles"
+    id="id-07d419c6070a376575c57e8dcda9cf42"
+    documentation="The business roles defined at the Credential Exchange layer of Sovrin Infrastructure. These include Subject, Issuer, Holder/Prover, Verifier, and Insurer. See Appendix G.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

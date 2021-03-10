@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Consensus Protocol"
+    id="id-65dff831c75ea5b7347a55afbfeac15a"
+    documentation="The Byzantine fault tolerant protocol used to communicate between Nodes to maintain the Sovrin Ledger. See the technical documentation for Hyperledger Indy.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

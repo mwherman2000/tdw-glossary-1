@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Claim 2"
+    id="id-51eb6039d612f1e4d8197d216b0d9b26"
+    documentation="An assertion about an Attribute of a Subject. Examples of a Claim include date of birth, height, government ID number, or postal addressâ€”all of which are possible Attributes of an Individual. A Credential is comprised of a set of Claims. (Note: In the first version of the Sovrin Trust Framework, this term was used the same way it was used in the early W3C Verifiable Claims Working Group specificationsâ€”as a synonym for what is now a Credential. That usage is now deprecated.)">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

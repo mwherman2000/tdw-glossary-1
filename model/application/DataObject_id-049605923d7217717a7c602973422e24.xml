@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Data 2"
+    id="id-049605923d7217717a7c602973422e24"
+    documentation="The set of data associated with an Identity that permits identification of the underlying Entity. In Self-Sovereign Identity, the sharing of Identity Data is under the control of the Identity Owner. See also Sovrin Identity Data. See Appendix A.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Ledger Fee"
+    id="id-38c8d057f25c0ade90412008fb7bd315"
+    documentation="The fee in fiat currency, Sovrin Tokens, or other units of economic value for making a write to the Sovrin Ledger. See Sovrin Governing Bodies for more information about the process of governing Sovrin Ledger Fees.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessObject>

@@ -1,0 +1,9 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organization"
+    id="id-06f46bb8ad434e7c014f5b89b67eb177"
+    documentation="A legal Entity that is not a natural person (i.e., not an Individual). Examples of Organizations include a Group, sole proprietorship, partnership, corporation, LLC, association, NGO, cooperative, government, etc. Mutually exclusive with Individual.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessInteraction>

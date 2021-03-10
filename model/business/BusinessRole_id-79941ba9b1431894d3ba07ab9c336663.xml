@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Anchor"
+    id="id-79941ba9b1431894d3ba07ab9c336663"
+    documentation="An Issuer who is considered by a Verifier or a Governance Authority to be authoritative for a particular set of Claims or Credentials. A Trust Anchor may be: a) informally recognized as a Trust Anchor by one or more Verifiers, b) formally designated as a Trust Anchor by a Governance Authority, or c) Accredited as a Trust Anchor by an Accreditation authority. (Note: In the Sovrin Provisional Trust Framework, this term was used to describe what is now defined as a Transaction Endorser. That usage is now deprecated.) See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

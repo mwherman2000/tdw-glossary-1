@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Code Repository"
+    id="id-4bf5850d366cb102487c0b147dc8e576"
+    documentation="The official version control repository for Sovrin Open Source Code and other documents of the Sovrin Foundation as designated from time to time by the Sovrin Board of Trustees. At present, this is the GitHub repository at https://github.com/sovrin-foundation. ">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Node>

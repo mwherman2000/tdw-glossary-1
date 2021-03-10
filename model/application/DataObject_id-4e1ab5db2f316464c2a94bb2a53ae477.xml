@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Link Secret"
+    id="id-4e1ab5db2f316464c2a94bb2a53ae477"
+    documentation="An item of Private Data used by a Prover to link a Credential uniquely to the Prover. A Link Secret is an input to Zero Knowledge Proofs that enables Claims from one or more Credentials to be combined in order to prove that the Credentials have a common Holder (the Prover). A Link Secret should be known only to the Prover.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

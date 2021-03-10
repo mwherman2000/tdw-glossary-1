@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Thing Controller Credential"
+    id="id-3236b1d65844cfd29a39562d1dd8b61b"
+    documentation="A Credential issued to a Thing Controller by an Identity Owner who has the legal authority to assign control of a Thing. A Thing Controller Credential may also be issued to a Thing if the Thing has its own Private Keys. See Appendix C.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

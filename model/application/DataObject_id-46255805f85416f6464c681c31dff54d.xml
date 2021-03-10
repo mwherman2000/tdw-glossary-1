@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credential Exchange Layer"
+    id="id-46255805f85416f6464c681c31dff54d"
+    documentation="The Sovrin Infrastructure Layer for Credential Exchange. As the SSI ecosystem matures, additional human trust-building protocols may appear at this layer, such as protocols for staking, reputation sharing, or insurance. See Appendix G.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

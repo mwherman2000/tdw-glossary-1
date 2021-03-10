@@ -1,0 +1,9 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trust Community Member"
+    id="id-4f5cbc06b52dc36ad8d4486d5b33e915"
+    documentation="An Entity who has agreed to participate in a Trust Community. Participation may be informal, such as via a terms of service agreement or other mechanism; or formal, such as via a legal contract or membership agreement, or both. The Sovrin Community is both an informal and a formal Trust Community governed by the Sovrin Governance Framework.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessActor>

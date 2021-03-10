@@ -1,0 +1,9 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Level of Assurance (LOA)"
+    id="id-60992f2dea0237e9f16657caa7fb760d"
+    documentation="A measure, usually numeric, of the Trust Assurance that one Entity has in another Entity based on a defined set of criteria that establish the amount of reliance the first Entity may accept from the second Entity in the performance of the criteria. LOAs are often defined in or referenced by Governance Frameworks.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Value>

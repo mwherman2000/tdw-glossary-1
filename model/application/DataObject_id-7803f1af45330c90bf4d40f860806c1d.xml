@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Connection Request"
+    id="id-7803f1af45330c90bf4d40f860806c1d"
+    documentation="An Agent-to-Agent Protocol message type sent from one Entity to a second Entity to request to form a Connection. See Appendix A and Appendix F.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

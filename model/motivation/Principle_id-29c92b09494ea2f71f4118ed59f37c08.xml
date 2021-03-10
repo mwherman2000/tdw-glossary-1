@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accreditation"
+    id="id-29c92b09494ea2f71f4118ed59f37c08"
+    documentation="The service an Auditor performs of verifying that a Trust Community Member conforms to the requirements of a Governance Framework. Accreditation involves performing an assessment against relied upon criteria for the benefit of adding reasonable assurance that the assessed party is meeting those criteria.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

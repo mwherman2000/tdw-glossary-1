@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vault"
+    id="id-3d609802612d714a92d3333516346e4e"
+    documentation="A term used to describe cryptographically-protected secure storage that is outside a Wallet but still accessible to and/or managed by an Agent. A Vault may (but is not required to) contain a Wallet. A Vault is often used for secure storage of digital assets too large to fit into a Wallet. Encryption and decryption of the contents of the Vault is usually performed by an Agent using Private Keys stored in a Wallet.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Node>

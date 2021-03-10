@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controlled Document"
+    id="id-7e4ac3d5b742348f773e6eec4204873e"
+    documentation="A subdocument of a Governance Framework that is included by reference in the Master Document as a normative component of the framework. A Controlled Document is typically able to be revised independently from the Master Document, permitting a modular legal architecture. For the Sovrin Governance Framework, a list of Controlled Documents is included as Appendix A to the Sovrin Governance Framework Master Document. The present document (the Sovrin Glossary) is a Controlled Document.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessObject>

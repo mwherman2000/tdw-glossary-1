@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Endpoint"
+    id="id-5d420e4f611558445ec3774a3a36ab00"
+    documentation="An addressable network location offering a service operated on behalf of an Entity. As defined in the DID specification, a Service Endpoint is expressed as a URI (Uniform Resource Identifier). In the Sovrin Network, a Cloud Agent uses a specific type of Service Endpoint as specified by the Sovrin Protocol. See Appendix F.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:ApplicationService>

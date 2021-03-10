@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Thing Controller"
+    id="id-52776d49454299ad0cd417e3eb3e7354"
+    documentation="A Controller  that controls the Sovrin Identity Data, including the Private Keys, for a Thing. Every Thing must have a Thing Controller. The Thing Controller may or may not be the legal owner of the Thing, however the Thing Controller may still be legally responsible for actions Agent(s) take on behalf of the Thing. See Appendix C.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

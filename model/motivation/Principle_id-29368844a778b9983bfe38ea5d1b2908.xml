@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Genesis Transactions"
+    id="id-29368844a778b9983bfe38ea5d1b2908"
+    documentation="The first Transactions written to a ledger or blockchain that establish starting conditions upon which all future evolution of ledger state depend. The Genesis Transactions for the Sovrin Main Network ledger were written on 31 July 2017 and defined the initial set of Trustees, Stewards, and Nodes.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

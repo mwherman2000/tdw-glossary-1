@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditor Accreditor"
+    id="id-150c4d60852e7299b1824203dfee447e"
+    documentation="An Organization authorized by a Governance Authority to issue Auditor Credentials under a particular Governance Framework. Auditor Accreditation involves assessing the competence and qualifications of Auditors accepted within the relevant jurisdiction against generally accepted audit standards. See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

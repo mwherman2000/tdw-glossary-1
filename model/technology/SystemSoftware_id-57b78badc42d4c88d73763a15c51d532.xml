@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Code"
+    id="id-57b78badc42d4c88d73763a15c51d532"
+    documentation="The Sovrin Open Source Code or any other computer code that is functionally equivalent.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:SystemSoftware>

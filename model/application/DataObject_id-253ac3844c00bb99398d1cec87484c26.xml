@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proof"
+    id="id-253ac3844c00bb99398d1cec87484c26"
+    documentation="Cryptographic verification of a Claim or a Credential. A digital signature is a simple form of Proof. A cryptographic hash is also a form of Proof. Zero Knowledge Proofs enable selective disclosure of the information in a Credential. See Appendix G.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zero Knowledge Proof"
+    id="id-100713821375c184355c0480f87af962"
+    documentation="A Proof that uses special cryptography and a Link Secret to support Selective Disclosure of information about a set of Claims from a set of Credentials. A Zero Knowledge Proof provides cryptographic proof about some or all of the data in a set of Credentials without revealing the actual data or any additional information, including the Identity of the Prover.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credential Registry Credential"
+    id="id-4f86f3747a5bbec995f7707116ce2727"
+    documentation="A Credential issued by a Governance Authority asserting that a Credential Registry is authorized under a particular Governance Framework. See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

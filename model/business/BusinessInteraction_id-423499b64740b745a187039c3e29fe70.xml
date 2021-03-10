@@ -1,0 +1,9 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interaction"
+    id="id-423499b64740b745a187039c3e29fe70"
+    documentation="A set of messages exchanged over a Connection using an Agent-to-Agent Protocol. See Appendix F.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessInteraction>

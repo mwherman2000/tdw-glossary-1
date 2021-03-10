@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Observer Node"
+    id="id-65af8062aa0b0760152537b5a20bb477"
+    documentation="A Node that maintains a read-only copy of the Sovrin Ledger. A Node may be able to operate as either an Observer Node or Validator Node, but at any one point in time it must operate in only one of these two roles. There is no restriction on who may run an Observer node or how many they may run because the responses from Observer Nodes may be verified using State Proofs.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

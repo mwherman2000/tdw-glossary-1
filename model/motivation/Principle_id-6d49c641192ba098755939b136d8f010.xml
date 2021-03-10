@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Identity"
+    id="id-6d49c641192ba098755939b136d8f010"
+    documentation="The subset of Sovrin Identity Data shared by a Sovrin Entity in the context of a specific Connection (Pairwise) or publicly in the context of the Sovrin Ledger (Anywise). To respect privacy, a Sovrin Entity may have as many Sovrin Identities as needed to maintain their desired separation of contexts. See Appendix A.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

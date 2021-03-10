@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Self-Sovereign Identity 2"
+    id="id-661b5377743aa9e333566d2cfa7e1d33"
+    documentation="An identity system architecture based on the core principle that Identity Owners have the right to permanently control one or more Identifiers together with the usage of the associated Identity Data. The Sovrin Governance Framework specifies two types of Identity Owners: Independents, who do not need to rely on any external administrative authority; and Dependents, who need to rely on a Guardian.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Developer"
+    id="id-3d1bf2b0fa3eafdd85572e1ba58a9b32"
+    documentation="An Individual or Organization that develops hardware or software providing the functionality of any component of Sovrin Infrastructure, including Nodes, Wallets, and Agents. See Appendix F.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Credential Offer"
+    id="id-081ba955863e464317c1554fa3516a64"
+    documentation="An Agent-to-Agent Protocol message type sent from an Issuer to a Holder to invite the Holder to send a Credential Request to the Issuer. See Appendix G.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

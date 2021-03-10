@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Guardianship"
+    id="id-26f3cc6a1e683881de1a2cdf3b8c285f"
+    documentation="The legal responsibility of serving as a Guardian. In Sovrin Infrastructure, Guardianship maps to the rights and responsibilities defined in prevailing legal constructs such as parent, in loco parentis, legal capacity, and power of attorney. Note that Guardianship is not Impersonation or Delegation. While the term Guardianship in this glossary applies strictly to natural persons (Individuals) as Dependents, in a more general sense the term can also be applied to Natural Things (such as pets or animals). Guardianship is one of three types of identity control relationships described in Appendix C.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

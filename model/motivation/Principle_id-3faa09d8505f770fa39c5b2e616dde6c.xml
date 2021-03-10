@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Web of Trust Model"
+    id="id-3faa09d8505f770fa39c5b2e616dde6c"
+    documentation="The decentralized, non-hierarchical trust model defined by the Sovrin Governance Framework, the Sovrin Web of Trust Framework, and the Sovrin Stack. The Sovrin Web of Trust Model does not rely on a single root of trust, but empowers any Sovrin Entity to serve as a root of trust and enables all Sovrin Entities to participate in any number of interwoven Trust Communities, either informally or as defined by Domain-Specific Governance Frameworks. See Appendix H.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

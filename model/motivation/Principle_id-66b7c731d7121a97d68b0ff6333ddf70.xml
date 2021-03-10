@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovrin Governance Framework (SGF)"
+    id="id-66b7c731d7121a97d68b0ff6333ddf70"
+    documentation="The Governance Framework defined by the Sovrin Foundation to govern Sovrin Infrastructure. The Sovrin Foundation is the Governance Authority for the Sovrin Governance Framework. The Sovrin Governance Framework consists of the Sovrin Governance Framework Master Document plus the Controlled Documents listed in Appendix A of the Master Document. The Sovrin Governance Framework is also referred to as the Sovrin Trust Framework.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Principle>

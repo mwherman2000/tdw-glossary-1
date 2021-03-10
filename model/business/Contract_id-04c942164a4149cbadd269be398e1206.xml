@@ -1,0 +1,9 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy"
+    id="id-04c942164a4149cbadd269be398e1206"
+    documentation="A business, legal, or technical rule specified in a Governance Framework. In the Sovrin Governance Framework, a Policy is expressed using a â€œMUSTâ€, â€œSHOULDâ€, â€œMAYâ€, â€œMUST NOTâ€, â€œSHOULD NOTâ€, or â€œMAY NOTâ€ statement following the rules defined in IETF RFC 2119.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:Contract>

@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Natural Thing"
+    id="id-1b17fc6c4610971fe6891d9ec8b4ce5a"
+    documentation="A Thing that exists in the natural world independently of humans. Examples include animals, pets, plants, mountains, rivers, etc. Natural Things by definition do not have the capacity to operate their own Agent(s) and thus must always have a Thing Controller. Mutually exclusive with Man-Made Thing (which must also have a Thing Controller too). See Appendix B and Appendix C.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessRole>

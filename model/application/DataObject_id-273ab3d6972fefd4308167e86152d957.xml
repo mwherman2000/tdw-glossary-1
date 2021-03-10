@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Attribute"
+    id="id-273ab3d6972fefd4308167e86152d957"
+    documentation="An Identity trait, property, or quality of an Entity. A small set of Attributes of a Sovrin Entity, including its Public Key(s) and Service Endpoint(s), may be recorded on the Sovrin Ledger (specifically the Sovrin Domain Ledger). A private Attribute of a Sovrin Entity may be asserted by a Claim in a Credential.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:DataObject>

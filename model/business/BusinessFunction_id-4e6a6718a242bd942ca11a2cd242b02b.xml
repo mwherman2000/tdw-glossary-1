@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Self-Certification"
+    id="id-4e6a6718a242bd942ca11a2cd242b02b"
+    documentation="The act of an Entity issuing a Self-Issued Credential that serves as a public Claim of conformance to a Governance Framework.">
+  <properties
+      key="CCCopyrightNotice"
+      value="(c) 2019 by Sovrin Foundation. This work is licensed under Creative Commons Attribution- ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/)."/>
+</archimate:BusinessFunction>
