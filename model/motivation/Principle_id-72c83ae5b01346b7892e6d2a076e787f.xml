@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digital Identity"
     id="id-72c83ae5b01346b7892e6d2a076e787f"
-    documentation="Some documentation…">
+    documentation="A digital identity is composed of a digital identifier and associated digital identity data.">
   <properties
       key="Status"
       value="New"/>
