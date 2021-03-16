@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4c947d4926764df191c91b74acdcb335"
       textAlignment="1"
-      fillColor="#f4f4ff">
+      fillColor="#eaeaff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-99fbcc3a1b0c4b189d5e3b6011585ef9"
@@ -172,7 +172,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-580473530fee4dc8a881fdd825272523"
       textAlignment="1"
-      fillColor="#f4ffff">
+      fillColor="#eaffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2748909b328d4257909c90498cb01043"
@@ -342,7 +342,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d5f96d53cf3b43f6b96104177e9bfc33"
       textAlignment="1"
-      fillColor="#fff4ff">
+      fillColor="#ffeaff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f7512cd75cdc4541a473df34c87cddc7"
@@ -1180,7 +1180,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a15e6db24b514c838f4681cde8563bee"
       textAlignment="1"
-      fillColor="#fffff4">
+      fillColor="#ffffea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-111162f5ada94460a3eec13e670a07c2"
@@ -1501,7 +1501,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-76a9ee4c0e9b4b6899653ab5ebd61043"
       textAlignment="1"
-      fillColor="#f4fffa">
+      fillColor="#eaffea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-02bef759b8a7418a92d419183ffa2892"
@@ -1614,7 +1614,7 @@
       font="1|Segoe UI|16.2|0|WINDOWS|1|-27|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Trusted Digital Web - Glossary 0.10"
+      content="Trusted Digital Web Glossary (TDW Glossary) 0.10"
       textPosition="2"
       borderType="2">
     <bounds
