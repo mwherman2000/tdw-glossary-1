@@ -1,8 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Self-Sovererign Identity (SSI)"
+    name="Self-Sovereign Identity (SSI)"
     id="id-ba466689c8984e9693dac474285a088f"
-    documentation="Some documentation…">
+    documentation="A Self-Sovereign Identity is a Digital Identity whose Identity Owner has the right to exclusively and permanently exert control over the usage of one or more associated Personal Digital Identifiers and, independently, the usage of any associated Personal Identity Data associated with each Personal Digital Identifier.">
   <properties
       key="Status"
       value="New"/>

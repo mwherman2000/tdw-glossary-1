@@ -1,8 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SSI Model"
-    id="id-b97df1812dd04bbba519158bacf48890"
-    documentation="The Self-Sovereign Identity Model (SSI Model) is an identity system architecture based on the core principle that Identity Owners have the right to permanently exert control over the usage of one or more of their Personal Digital Identifiers and, independently, the usage of any associated Personal Identity Data. [inspired by the Sovrin Glossary]">
+    name="Anonymous Self-Sovereign Identity (ASSI)"
+    id="id-d45b118632c942838d86e50ddb2b4cd2"
+    documentation="Some documentation…">
   <properties
       key="Status"
       value="New"/>
