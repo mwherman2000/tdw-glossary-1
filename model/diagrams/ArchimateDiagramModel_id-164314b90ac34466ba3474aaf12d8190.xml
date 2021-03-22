@@ -1736,9 +1736,9 @@
               href="AssociationRelationship_id-b3877bb3bd344211a2585f31e160a997.xml#id-b3877bb3bd344211a2585f31e160a997"/>
         </sourceConnections>
         <bounds
-            x="84"
+            x="72"
             y="168"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:TechnologyInterface"
@@ -1812,9 +1812,9 @@
               href="AssignmentRelationship_id-ab4a50f504b44ac984fc981bb49828d8.xml#id-ab4a50f504b44ac984fc981bb49828d8"/>
         </sourceConnections>
         <bounds
-            x="84"
+            x="72"
             y="252"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:SystemSoftware"
