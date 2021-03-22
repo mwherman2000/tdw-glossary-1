@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Actor"
+    id="id-bb146ef36619476995d748413c4cf821"
+    documentation="A business actor represents a business entity that is capable of performing behavior."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Service"
+    id="id-4763aabda2414fbdaca83a1d11d43000"
+    documentation="A business service represents explicitly defined behavior that a business role, business actor, or business collaboration exposes to its environment."/>

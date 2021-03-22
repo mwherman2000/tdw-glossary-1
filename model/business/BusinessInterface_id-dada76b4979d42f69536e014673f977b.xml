@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Interface"
+    id="id-dada76b4979d42f69536e014673f977b"
+    documentation="A business interface represents a point of access where a business service is made available to the environment."/>
