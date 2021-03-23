@@ -1526,7 +1526,7 @@
             href="ServingRelationship_id-51f6d1616406404da7aeba48f3a0d4d3.xml#id-51f6d1616406404da7aeba48f3a0d4d3"/>
       </sourceConnections>
       <bounds
-          x="1716"
+          x="1692"
           y="228"
           width="120"
           height="55"/>
@@ -1662,8 +1662,7 @@
             target="id-9d9f0a6cec9747a1b4399c996f3310b7">
           <bendpoints
               startX="269"
-              startY="-102"
-              endX="-24"
+              startY="-108"
               endY="621"/>
           <archimateRelationship
               xsi:type="archimate:RealizationRelationship"
