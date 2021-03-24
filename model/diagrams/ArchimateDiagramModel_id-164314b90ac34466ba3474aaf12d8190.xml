@@ -1516,6 +1516,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9d9f0a6cec9747a1b4399c996f3310b7"
         targetConnections="id-c4657e04f3144520a7b45302eb82dfff id-ae7f3edde4b942adb3a614b02be90e7a"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         fillColor="#ffd5ff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
