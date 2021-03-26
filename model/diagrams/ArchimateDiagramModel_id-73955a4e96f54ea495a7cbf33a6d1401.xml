@@ -444,7 +444,7 @@
             href="AssociationRelationship_id-28d8c79716094a2db0ceb01f6210a57b.xml#id-28d8c79716094a2db0ceb01f6210a57b"/>
       </sourceConnections>
       <bounds
-          x="1096"
+          x="1089"
           y="228"
           width="129"
           height="55"/>
@@ -847,9 +847,9 @@
             href="AssociationRelationship_id-996f5eed5fa64862905aa7038a713692.xml#id-996f5eed5fa64862905aa7038a713692"/>
       </sourceConnections>
       <bounds
-          x="1094"
+          x="1080"
           y="312"
-          width="133"
+          width="147"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessInteraction"

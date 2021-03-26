@@ -1215,7 +1215,7 @@
             href="AssociationRelationship_id-28d8c79716094a2db0ceb01f6210a57b.xml#id-28d8c79716094a2db0ceb01f6210a57b"/>
       </sourceConnections>
       <bounds
-          x="1276"
+          x="1282"
           y="228"
           width="126"
           height="55"/>
@@ -1661,7 +1661,7 @@
             href="AssignmentRelationship_id-e521ac7d937a4c4fb97816ee78718c76.xml#id-e521ac7d937a4c4fb97816ee78718c76"/>
       </sourceConnections>
       <bounds
-          x="1428"
+          x="1440"
           y="312"
           width="128"
           height="55"/>
@@ -1686,7 +1686,7 @@
       <bounds
           x="1272"
           y="312"
-          width="133"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessInteraction"
