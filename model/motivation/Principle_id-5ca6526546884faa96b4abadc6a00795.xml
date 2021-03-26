@@ -1,8 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Non-anonymous Self-Sovereign Identity (NSSI)"
-    id="id-dcb0e7629e5b4dc49434f2bbf590f082"
-    documentation="Some documentation…">
+    name="Delegated Self-Sovereign Identity (DSSI)"
+    id="id-5ca6526546884faa96b4abadc6a00795"
+    documentation="A Self-Sovereign Identity is a Digital Identity whose Identity Owner has the right to exclusively and permanently exert control over the usage of one or more associated Personal Digital Identifiers and, independently, the usage of any associated Personal Identity Data associated with each Personal Digital Identifier.">
   <properties
       key="Status"
       value="New"/>
