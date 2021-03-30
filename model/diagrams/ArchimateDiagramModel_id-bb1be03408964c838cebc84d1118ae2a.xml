@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="TDW Glossary-Digital IIdentity NH"
+    name="TDW Glossary-Digital Identity NH"
     id="id-bb1be03408964c838cebc84d1118ae2a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -807,13 +807,13 @@
       textAlignment="1"
       fillColor="#ffffff"
       content="TDW Glossary 0.18: Digital Identity Neighborhood"
-      textPosition="2"
+      textPosition="1"
       borderType="2">
     <bounds
         x="-528"
-        y="828"
+        y="816"
         width="541"
-        height="37"/>
+        height="49"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -822,6 +822,7 @@
       textAlignment="1"
       fillColor="#ffffff"
       content="Michael Herman, Trusted Digital Web, Hyperonomy Digital Identity Lab, Parallelspace Corporation"
+      textPosition="1"
       borderType="2">
     <bounds
         x="-528"

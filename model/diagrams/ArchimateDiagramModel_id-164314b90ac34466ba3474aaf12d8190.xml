@@ -3504,7 +3504,7 @@
       textAlignment="1"
       fillColor="#ffffff"
       content="Trusted Digital Web Glossary (TDW Glossary) 0.18"
-      textPosition="2"
+      textPosition="1"
       borderType="2">
     <bounds
         x="-528"
@@ -3519,6 +3519,7 @@
       textAlignment="1"
       fillColor="#ffffff"
       content="Michael Herman, Trusted Digital Web, Hyperonomy Digital Identity Lab, Parallelspace Corporation"
+      textPosition="1"
       borderType="2">
     <bounds
         x="-528"
