@@ -1,7 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Assigned To"
+    name="Assigned to an Entity"
     id="id-cf008c0efbb549b781c24a5a802c0361">
   <source
       xsi:type="archimate:Grouping"
