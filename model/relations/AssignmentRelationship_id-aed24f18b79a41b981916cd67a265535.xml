@@ -1,7 +1,7 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Assigned to an Entity"
+    name="VC associated with an Entity's Identifier"
     id="id-aed24f18b79a41b981916cd67a265535">
   <source
       xsi:type="archimate:Grouping"

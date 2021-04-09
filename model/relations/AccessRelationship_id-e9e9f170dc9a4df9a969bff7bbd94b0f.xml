@@ -1,11 +1,12 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Act on an Entity's State"
-    id="id-a75c5a016301460ca29ceef4d552e26f">
+    name="Acts on Entity State based on VCAs associated with an Entity"
+    id="id-e9e9f170dc9a4df9a969bff7bbd94b0f"
+    accessType="3">
   <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-e657e93cbd6c45a68ef82372479d0e20.xml#id-e657e93cbd6c45a68ef82372479d0e20"/>
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-d8e3bdf90857495297c9c1d694ddaac1.xml#id-d8e3bdf90857495297c9c1d694ddaac1"/>
   <target
       xsi:type="archimate:Grouping"
       href="Grouping_id-93695e0faac34e0983f751c75643fed4.xml#id-93695e0faac34e0983f751c75643fed4"/>
