@@ -1,5 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sovrin Network"
+    name="SOVRONA Network"
     id="id-66824442ee96408ba8170e90db4de430"
-    documentation="The Sovrin Network is comprised of a network of Sovrin Nodes (each hosting its own replica of the Sovrin Ledger) and includes and is governed by the Sovrin Goverance Framework (SGF). The Sovrin Network excludes the Agents that communicate with the Sovrin Network via the HyperLedger Indy Service Endpoint exposed by each Sovrin Node. "/>
+    documentation="The SOVRONA Network is comprised of a network of SOVRONA Nodes (each hosting its own replica of the Sovrin Ledger) and includes and is governed by the SOVRONA Goverance Framework (SGF). The SOVRONA Network excludes the Agents that communicate with the SOVRONA Network via the HyperLedger Indy Service Endpoint exposed by each SOVRONA Node. "/>
